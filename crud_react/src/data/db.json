@@ -1,0 +1,90 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Nguyễn Duy Dũng",
+      "age": 20,
+      "class": {
+        "id": "1",
+        "className": "C0922G1"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Trần Tấn Công",
+      "age": 22,
+      "class": {
+        "id": "1",
+        "className": "C0922G1"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nguyễn Thiện Phúc",
+      "age": 25,
+      "class": {
+        "id": "1",
+        "className": "C0922G1"
+      }
+    },
+    {
+      "name": "namdeptrai",
+      "age": 1,
+      "id": 5,
+      "class": {
+        "id": "1",
+        "className": "C0922G1"
+      }
+    },
+    {
+      "name": "congdeptrai",
+      "age": 1,
+      "id": 6,
+      "class": {
+        "id": "2",
+        "className": "C0822G1"
+      }
+    },
+    {
+      "name": "Nguyễn Thiện Phúc",
+      "age": 22,
+      "id": 7,
+      "class": {
+        "id": "2",
+        "className": "C0822G1"
+      }
+    },
+    {
+      "name": "congdeptrai",
+      "age": 111,
+      "id": 8,
+      "class": {
+        "id": "1",
+        "className": "C0922G1"
+      }
+    },
+    {
+      "name": "Iphone 14 adasd",
+      "age": 18,
+      "class": {
+        "id": "1",
+        "className": "C0922G1"
+      },
+      "id": 9
+    }
+  ],
+  "class": [
+    {
+      "id": "1",
+      "className": "C0922G1"
+    },
+    {
+      "id": "2",
+      "className": "C0822G1"
+    },
+    {
+      "id": "3",
+      "className": "C0722G1"
+    }
+  ]
+}
